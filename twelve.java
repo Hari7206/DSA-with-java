@@ -12,7 +12,7 @@ public class twelve {
                 System.out.print(j);
             }
             // space 
-            for(int k = 1; k< 2*n-(2*i-2); k++) {
+            for(int k = 1; k<= 2*(n-i); k++) {
                 System.out.print(" ");
             }
             //number
