@@ -1,4 +1,4 @@
-package collection;
+package collection.list;
 import java.util.*;
 // we always had to add this for the arry_list
 public class arryList {

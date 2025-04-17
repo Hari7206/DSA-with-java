@@ -1,4 +1,4 @@
-package collection;
+package collection.list;
 import java.util.*;
 // here we will see how to use the arry function in arry list 
 public class list_fun {
