@@ -11,3 +11,4 @@ public class generi_method {
         System.out.println(data);
     }
 }
+ 
