@@ -18,7 +18,7 @@ public static void main(String[] args) {
     hash.add(67);
     System.out.println("The element of the Hash are "+ hash);  
 
-    hash.remove(89); // to remove any elemet
+    hash.remove(89); // to remove any element
 
     System.out.println(hash.contains(56)); // it will check weather the element is present in the hashset or not  shows in the form true or false 
 
