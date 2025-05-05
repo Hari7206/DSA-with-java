@@ -26,7 +26,7 @@ public static void main(String[] args) {
    System.out.println(hash.size());
    System.out.println("after all the function our  hash is "+ hash);
 
-   // clear  -  this is used to clear the all the element in the hashset 
+   // clear  -  this is used to clear the all the element in the hashsets
    
 
 }    
