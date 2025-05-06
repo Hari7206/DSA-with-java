@@ -15,7 +15,8 @@ public class mathdiv {
                 }
             }
         }
+        Collections.sort(divisor);
+        // so in the java this is how by the help of the collection short we can create the the short data of any list 
         return divisor;
     }
 }
-// this is how we can create the list of any number to make it ready for the shorted form 
