@@ -2,7 +2,7 @@ package Recursion.paramfunction;
 // reverse the array using the recursion
 public class reverse {
     public static void main(String[] args) {
-        int[] arr = { 4 , 5  , 6 , 3 , 2};
+        int[] arr = { 4 , 5  , 6 , 3 , 2};   // swap value will   2 3 6 5 4
         reverarr(arr,0, arr.length-1);
         for (Object val : arr) {
             System.out.println(val);
