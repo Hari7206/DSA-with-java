@@ -1,6 +1,5 @@
 package Recursion.paramfunction;
 // so here we will reverse the array with the help of only i or we can call it as the single pointer arr 
-
 public class pointerrever {
     public static void main(String[] args) {
         int arr[] = {4 , 6 , 3 , 7 , 8};
