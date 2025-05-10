@@ -15,6 +15,6 @@ public class pointerrever {
         int temp = arr[i];  
         arr[i] = arr[n-i-1];
         arr[n-i-1] = temp;
-        reversingle(arr, i+1, n);
+        reversingle(arr, i+1, n); // here 
     }
 }
