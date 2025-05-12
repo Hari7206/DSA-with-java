@@ -18,4 +18,4 @@ public class pointerrever {
         reversingle(arr, i+1, n); // here 
     }
 }
-// 
+// this 
