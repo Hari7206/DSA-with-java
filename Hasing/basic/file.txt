@@ -1,0 +1,3 @@
+so here i write the main thing we have to know about this hasing 
+
+so this why file we make to show that it will take long time to print the number we dont even know the number and the how big our array is so that why we use the hasing . 
