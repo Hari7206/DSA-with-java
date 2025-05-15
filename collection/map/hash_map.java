@@ -42,7 +42,7 @@ public class hash_map {
 
     }
 
-System.out.println(maps.containsKey("One")); // by this wqe can see that if the key is present or not
+System.out.println(maps.containsKey("One")); // by this we can see that if the key is present or not
 System.out.println(maps.containsValue(45));   // by this we can chcek weather the value is present or not q
 
  }   
