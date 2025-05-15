@@ -19,4 +19,4 @@ public class hashCode {
         }
     }
 }
-// this is how our hash make the code easy to print the anu number of value  
+// this is how our hash make the code easy to print the anu number of values 
