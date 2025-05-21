@@ -39,6 +39,7 @@ public class marge {
     public static void margediv(int arr[] , int low , int high) {
         if (low >= high) {
             return;
+            //
         }
         int mid = (low + high) / 2;
         margediv(arr, low, mid);
