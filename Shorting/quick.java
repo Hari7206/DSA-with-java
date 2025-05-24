@@ -39,7 +39,7 @@ class Solution {
         return arr;
     }
 }
-
+// this 
 public class quick {
     public static void main(String args[]) {
         List<Integer> arr = new ArrayList<>();
