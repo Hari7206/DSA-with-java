@@ -34,7 +34,7 @@ public class quicks {
         arr.set(low, arr.get(j));
         arr.set(j, temp);
         return j;
-
+//
     }
     public static void qs(List<Integer> arr , int low , int high) {
         if (low >= high) {
