@@ -4,7 +4,12 @@ public class linear {
     public static void main(String[] args) {
         int arr[] = {56 , 55 , 67 , 34 , 7 , 345 };
        int result = search(arr, 34);
-        System.out.println(result);
+       if (result != -1) {
+        System.out.println("the array element found at index " + result);
+       }
+       else{
+        System.out.println("array element is not found ");
+       }
     }
     public static int search(int arr[] , int element) {
         for (int i = 0; i < arr.length; i++) {
