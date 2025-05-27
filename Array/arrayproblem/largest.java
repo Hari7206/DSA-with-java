@@ -1,5 +1,5 @@
 package Array.arrayproblem;
-
+// find the largest no in the array
 public class largest {
         public static void main(String[] args) {
         int arr[] = { 56 , 67 , 34 , 3 , 78 , 3 , 190};
