@@ -9,6 +9,7 @@ public class shorted {
             if (arr[i+1] > arr[i] ) {
              shorted = false;
              break;
+             //
             }  
         }
         if (shorted == true) {
