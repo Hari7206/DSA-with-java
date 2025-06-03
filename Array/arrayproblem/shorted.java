@@ -1,6 +1,6 @@
 package Array.arrayproblem;
 
-// 
+
 public class shorted {
     public static void main(String[] args) {
          int arr[] = {90 ,89, 67 , 45 , 3 , 1};
