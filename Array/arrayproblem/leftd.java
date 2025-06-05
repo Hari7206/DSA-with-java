@@ -9,7 +9,7 @@ public class leftd {
         int d = 3;
         int n = arr.length;
    
-           for(int i=0; i < 3; i++) {
+           for(int i=0; i < d; i++) {
               temp.add(arr[i]);
            }
 
