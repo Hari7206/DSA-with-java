@@ -14,7 +14,7 @@ public class leftdre {
         
         // for (int i = 0; i < 3; i++) {
         //     System.out.println(arr[i]);
-        // }
+        // } .. 
 
 
 // Reverse from d to n-1 (i.e., 90, 21, 56)
