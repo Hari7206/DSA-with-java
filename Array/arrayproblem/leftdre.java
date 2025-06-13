@@ -24,7 +24,7 @@ for (int i = d, j = n - 1; i < j; i++, j--) {
     arr[j] = temp;
 }
 // for (int i = d; i < arr.length; i++) {
-//     System.out.println(arr[i]);;
+//     System.out.println(arr[i]);; ;
 // }
 
         for (int i = 0; i < n / 2; i++) {
