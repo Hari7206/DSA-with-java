@@ -1,5 +1,5 @@
 package Array.arrayproblem;
-
+//
 public class linear {
     public static void main(String[] args) {
         int arr[] = {45 , 67 , 84 , 90 ,  23 , 5 , 78 };
