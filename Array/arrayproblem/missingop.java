@@ -1,5 +1,5 @@
 package Array.arrayproblem;
-// this is the version of the optimal version
+// this is the version of the better version
 public class missingop {
     public static void main(String[] args) {
         int arr[] = {1 , 2 , 4 , 5};
