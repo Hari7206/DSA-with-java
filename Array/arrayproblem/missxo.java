@@ -7,11 +7,15 @@ public class missxo {
         int xorOne = 0;
         int xorTwo = 0;
         for (int i = 0; i < arr.length; i++) {
+            // here we will asssing the alll value to the one
             xorOne = xorOne ^ arr[i];
             xorTwo = xorTwo  ^ (i + 1);
+            // here we are assing value to the xor 2
         }
         xorTwo = xorTwo ^ n;
+        // here our left one which is 5 we also got this
       int result =   xorOne ^ xorTwo;
+      // at last we will get our main xor value which is missing 
       System.out.println(" our missing number is "+result);
     }
 }
