@@ -9,7 +9,7 @@ public class consiqutive {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == 1) {
                 count++;
-                // here when ever our count is max the max we will assign it the value 
+                // here when ever our count is max the max we will assign it the values 
           if (count > max) {
               max = count;
           }
