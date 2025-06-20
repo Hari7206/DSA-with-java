@@ -5,7 +5,7 @@ public class missxo {
         // here assingn the array 
         int arr[] = {1 , 2 , 4 , 5 };
         int n = 5;
-        // here we start the zero and the one of the xor 
+        // here we start the zero and the one of the xors
         int xorOne = 0;
         int xorTwo = 0;
         for (int i = 0; i < arr.length; i++) {
