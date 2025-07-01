@@ -5,7 +5,7 @@ public class appeer {
     // heere we will assign the unqiue numbers 
         int arr[] = {1 , 1 , 2 , 2 , 3 , 4 , 4 , 5 , 5};
 
-        // our first itration start here
+        // our first itration start heree
         for (int i = 0; i < arr.length; i++) {
             int count = 0;
             int num = arr[i];
