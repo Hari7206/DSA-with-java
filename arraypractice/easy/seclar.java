@@ -28,7 +28,7 @@
 // }
 
 package arraypractice.easy;
-// so first of all we do the secoond largrest optimal force approch
+// so first of all we do the secoond largrest better  force approch
 public class seclar {
 public static void main(String[] args) {
      int arr[] = { 34 , 23 , 5 , 67  , 54 , 45};
