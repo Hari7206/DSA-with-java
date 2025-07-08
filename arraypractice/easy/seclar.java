@@ -27,29 +27,24 @@
 //     }
 // }
 
-// package arraypractice.easy;
-// // so first of all we do the secoond largrest better  force approch
-// public class seclar {
-// public static void main(String[] args) {
-//      int arr[] = { 34 , 23 , 5 , 67  , 54 , 45};
-//      int largest = arr[0];
-//      int seclar = -1;
-
-//      for (int i = 0; i < arr.length; i++) {
-//         if (arr[i] > largest) {
-//             seclar = largest;
-//             largest = arr[i];
-//         }
-//         else if (arr[i] <  largest && arr[i] > seclar) {
-//             seclar = arr[i];
-//         }
-//      }
-// System.out.println(seclar);
-// System.out.println(largest);
-//     }
-// }
 package arraypractice.easy;
-// so first of all we do the secoond largrest optimal  force approch
+// so first of all we do the secoond largrest better  force approch
 public class seclar {
+public static void main(String[] args) {
+     int arr[] = { 34 , 23 , 5 , 67  , 54 , 45};
+     int largest = arr[0];
+     int seclar = -1;
 
+     for (int i = 0; i < arr.length; i++) {
+        if (arr[i] > largest) {
+            seclar = largest;
+            largest = arr[i];
+        }
+        else if (arr[i] <  largest && arr[i] > seclar) {
+            seclar = arr[i];
+        }
+     }
+System.out.println(seclar);
+System.out.println(largest);
+    }
 }
