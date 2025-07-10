@@ -3,7 +3,7 @@ package arraypractice.easy;
 
 import java.util.ArrayList;
 import java.util.List;
-
+// so here we will do the non zero stroing at last brute force 
 public class nonzero {
      public static void main(String[] args) {
         List<Integer> temp = new ArrayList<>();
