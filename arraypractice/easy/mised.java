@@ -21,7 +21,7 @@
 // }
 
 // package arraypractice.easy;
-// // so here we will see the brute force approch of the missing array number 
+// // so here we will see the betetr force approch of the missing array number 
 
 // public class mised {
 // public static void main(String[] args) {
@@ -41,7 +41,7 @@
 // }
 
 package arraypractice.easy;
-// so here we will see the brute force approch of the missing array number 
+// so here we will see the optimal approch of the missing array number 
 
 public class mised {
 
