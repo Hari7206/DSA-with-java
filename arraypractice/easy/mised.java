@@ -98,7 +98,7 @@ package arraypractice.easy;
 // If bits are different → result is 1     this is for the purpose of remeber the xor 
 
 public class mised {
-
+// moerm better verison of the xor to maintain in time complexity 
     public static void main(String[] args) {
         int arr[] = {1 ,2 , 3 , 5 , 6};
         int n = arr.length + 1;
