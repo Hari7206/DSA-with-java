@@ -18,6 +18,9 @@
 //             }
 //         }
 //         System.out.println(length);
+// this tc = 0(n^2)
+
+
 //     }
 // }
 
@@ -40,7 +43,7 @@ public static void main(String[] args) {
         }
     }
     System.out.println(length);
-
+// this tc = 0(n^2)
 }
 
 }
