@@ -1,6 +1,5 @@
 package Array.arrayproblem;
-// here we will find the missing number array
-// brute force approch 
+// this is the optimal version of find the biggest submission of the array 
 public class longsuub {
 public static void main(String[] args) {
     int arr[] = {1 , 2 , 3  , 1 , 1 , 1 , 1 , 3 , 3 };
