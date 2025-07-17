@@ -1,5 +1,4 @@
-package Array.arrayproblem;
-//here we will do the two sum burte force apporch 
+package Array.mediumproblem;
 public class twoSum {
     public static void main(String[] args) {
         int arr[] = {2 , 6 , 5 , 8 , 11};
