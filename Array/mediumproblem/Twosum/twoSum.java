@@ -1,4 +1,4 @@
-package Array.mediumproblem;
+package Array.mediumproblem.Twosum;
 public class twoSum {
     public static void main(String[] args) {
         int arr[] = {2 , 6 , 5 , 8 , 11};
