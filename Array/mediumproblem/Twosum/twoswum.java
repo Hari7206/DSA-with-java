@@ -1,6 +1,6 @@
 package Array.mediumproblem.Twosum;
 import java.util.Arrays;
-
+// optimal verison of the two sum 
 public class twoswum {
     public static void main(String[] args) {
         int[] arr = {2, 6, 5, 8, 11};
