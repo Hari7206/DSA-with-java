@@ -7,7 +7,9 @@ public class optimal {
         int mid = 0;
         int high = arr.length - 1;
 
+        // here startt the condition where till run
         while (mid <= high) {
+            // here step 1
           if (arr[mid] == 0) {
                 int temp = arr[low];
                 arr[low] = arr[mid];
@@ -15,9 +17,11 @@ public class optimal {
                 mid++;
                 low++;
             }
+            //  step = 2
             else if (arr[mid] == 1) {
                 mid++;
             }
+            // step = 3
             else {
                 int temp = arr[high];
                 arr[high] = arr[mid];
