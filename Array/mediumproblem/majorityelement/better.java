@@ -1,5 +1,5 @@
 package Array.mediumproblem.majorityelement;
-
+// its an better version of my code 
 import java.util.HashMap;
 import java.util.Map;
 
@@ -20,3 +20,4 @@ public class better {
          }
     }
 }
+ 
