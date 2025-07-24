@@ -46,5 +46,25 @@ public class brute {
         //         System.out.println(i + " is an majority number");
         //     }
         // }
+        int[] arr = {2 , 2 , 3 , 3 , 1 , 2  };
+        int n = arr.length / 2;
+        for (int i = 0; i < arr.length; i++) {
+            int cout = 0;
+            for (int j = 0; j < arr.length; j++) {
+                if (arr[i] == arr[j]) {
+                    cout++;
+                }
+              
+            }
+            if (cout > n) {
+                System.out.println(arr[i] + " number is majority ");
+                break;
+            }
+            else {
+         System.out.println(" no element found");
+         break;
+            }
+        }
+
     }
 }
