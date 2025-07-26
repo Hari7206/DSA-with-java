@@ -1,5 +1,5 @@
 package Array.mediumproblem.maxSub;
-
+//  here the optimal verison of our code 
 public class optimal {
     public static void main(String[] args) {
         int arr[] = { -2 , -3 , 4 , -1 , -2 , 1 , 5 , -3};
