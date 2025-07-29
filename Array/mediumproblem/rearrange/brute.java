@@ -1,5 +1,5 @@
 package Array.mediumproblem.rearrange;
-
+//  so here we will done the brute force of this array 
 public class brute {
     public static void main(String[] args) {
         int arr[] = {3 , 1 , -2 , -5 , 2 , -4};
@@ -7,8 +7,8 @@ public class brute {
         int negtArr[] = new int[arr.length ];
 
 
-        int postind =0;
-        int negind =0;
+        int postind = 0;
+        int negind = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] > 0) {
                 postArr[postind++] = arr[i];
