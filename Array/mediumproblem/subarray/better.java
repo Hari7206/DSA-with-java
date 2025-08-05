@@ -1,6 +1,7 @@
 package Array.mediumproblem.subarray;
 
 public class better {
+    // so here we will do the better approch 
     public static void main(String[] args) {
           int arr[] = {1 , 2 , 3 , -3 , 1  , 1 , 1  , 4 , 2 , -3};
             int k = 3;
