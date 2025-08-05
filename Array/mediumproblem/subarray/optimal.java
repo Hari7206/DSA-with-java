@@ -1,5 +1,5 @@
 package Array.mediumproblem.subarray;
-
+// here i did the optimal version of the subarray how many subarray of no k 
 import java.util.HashMap;
 
 public class optimal {
