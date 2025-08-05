@@ -1,5 +1,5 @@
 package Array.mediumproblem.subarray;
-
+// so here we do the question of subarray with sum k
 public class brute {
     public static void main(String[] args) {
         int arr[] = {1 , 2 , 3 , -3 , 1  , 1 , 1  , 4 , 2 , -3};
