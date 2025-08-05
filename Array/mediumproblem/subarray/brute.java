@@ -7,10 +7,10 @@ public class brute {
         int k = 3;
             int cout = 0;
         for (int i = 0; i < arr.length; i++) {
-            for (int j = i+1; j < arr.length; j++) {
+            for (int j = i; j < arr.length; j++) {
                 int sum = 0;
-                for (int m = i; m < j; m++) {
-                    sum = sum + arr[m];
+                for (int m = i; m <= j; m++) {
+                    sum += arr[m];
                 }
                 if (sum == k) {
                     cout++;
