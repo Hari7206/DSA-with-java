@@ -1,5 +1,5 @@
 package Array.hardproblem.majoritytwo;
-
+// brute force of mejority n/3 
 public class brute {
     public static void main(String[] args) {
         int[] arr = {1, 1, 1, 3, 3, 2, 2, 2};
