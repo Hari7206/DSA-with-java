@@ -1,5 +1,5 @@
 import java.util.*;
-
+// here we will apply the better version 
 public class better {
     public static void main(String[] args) {
         int[] nums = {1, 0, -1, 0, -2, 2};
@@ -30,7 +30,7 @@ public class better {
             }
         }
 
-        
+
         for (List<Integer> quad : result) {
             System.out.println(quad);
         }
