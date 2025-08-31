@@ -3,7 +3,7 @@ package Array.hardproblem.maxproduct;
 public class brute {
     public static void main(String[] args) {
         int[] nums = {2, 3, -2, 4};
-        System.out.println("Maximum product subarray: " + maxProduct(nums));
+        System.out.println("Maximum products subarray: " + maxProduct(nums));
     }
 
     // Brute force O(n^2) approach
