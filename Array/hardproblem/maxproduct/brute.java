@@ -6,7 +6,7 @@ public class brute {
         System.out.println("Maximum products subarray: " + maxProduct(nums));
     }
 
-    // Brute force O(n^2) approachses
+    // Brute force O(n^2) appreachses
     public static int maxProduct(int[] nums) {
         int n = nums.length;
         int maxProduct = Integer.MIN_VALUE;
