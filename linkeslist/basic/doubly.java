@@ -1,5 +1,5 @@
 package linkeslist.basic;
-
+//class  here 
 public class doubly {
     public static void main(String[] args) {
         DoubleLL list = new DoubleLL();
