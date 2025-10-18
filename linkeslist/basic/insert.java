@@ -69,6 +69,7 @@ public void deletelast(){
         head = null;
         return;
     }
+    
  Node secondlast = head;
     Node lastnode = head.next;
         while (lastnode.next != null) {
